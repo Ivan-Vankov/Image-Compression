@@ -1,2 +1,2 @@
 # Image-Compression
-Image Compression Singular ValueDecomposition (SVD)
+Image Compression using Singular Value Decomposition (SVD)
