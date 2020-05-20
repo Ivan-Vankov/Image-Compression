@@ -1,0 +1,2 @@
+Доклад 10 страници на LaTex
+Доказателство на Block SVD Power Method, което да ползва доказателството на SVD Power Method от https://www.overleaf.com/4634919912rvmtzwcvvdhg
