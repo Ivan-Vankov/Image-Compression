@@ -1,2 +1,8 @@
 Доклад 10 страници на LaTex
 Доказателство на Block SVD Power Method, което да ползва доказателството на SVD Power Method от https://www.overleaf.com/4634919912rvmtzwcvvdhg
+
+Benchmark-ни Block Power метода vs SVD на Mathematica
+В доклада да сложа от Benchmark.nb 5, 10 и 100 singular values за моя и на математика метода (пуснато по 100 пъти)
+Да довърша доклада
+Да се чуя с мими за пълното доказателство
+Да й купя една каса вафли за испита
