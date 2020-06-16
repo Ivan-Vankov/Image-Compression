@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    827604,      13785]
-NotebookOptionsPosition[    826694,      13753]
-NotebookOutlinePosition[    827074,      13769]
-CellTagsIndexPosition[    827031,      13766]
+NotebookDataLength[    825330,      13741]
+NotebookOptionsPosition[    824583,      13714]
+NotebookOutlinePosition[    824962,      13730]
+CellTagsIndexPosition[    824919,      13727]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -13476,10 +13476,11 @@ Cell[BoxData[{
 
 Cell[BoxData[
  DynamicBox[ToBoxes[$CellContext`image, StandardForm],
-  ImageSizeCache->{435., {211., 224.}}]], "Output",
+  ImageSizeCache->{452., {219., 233.}}]], "Output",
  CellChangeTimes->{3.8007878679229608`*^9, 3.800788611193925*^9, 
   3.8007887803678865`*^9, 3.8007888690780053`*^9, 3.80078911866075*^9, 
-  3.800789445214904*^9}]
+  3.800789445214904*^9, 3.801020884686903*^9, 3.8010209309319735`*^9, 
+  3.8010210156778708`*^9}]
 }, Open  ]],
 
 Cell[BoxData[{
@@ -13655,36 +13656,20 @@ Cell[BoxData[{
 
 Cell[BoxData[
  DynamicBox[ToBoxes[$CellContext`image, StandardForm],
-  ImageSizeCache->{503., {287., 300.}}]], "Output",
- CellChangeTimes->{{3.8007789547292786`*^9, 3.80077900613509*^9}, 
-   3.800779129630994*^9, 3.8007822508592157`*^9, 3.800782724404662*^9, 
-   3.8007831262064605`*^9, 3.8007837761994066`*^9, 3.800783823013772*^9, 
-   3.8007840402215147`*^9, 3.8007841071410694`*^9, 3.8007845455559664`*^9, 
-   3.8007848330083437`*^9, {3.800784873040812*^9, 3.800784882413452*^9}, 
-   3.8007849541151667`*^9, 3.800785073420862*^9, 3.8007851202842183`*^9, 
-   3.8007852857009573`*^9, 3.8007878679608707`*^9, {3.8007886043073454`*^9, 
-   3.8007886112358456`*^9}, 3.8007887804127674`*^9, 3.8007888691455975`*^9, 
-   3.800789118724573*^9, 3.8007894452889805`*^9}],
+  ImageSizeCache->{523., {298., 312.}}]], "Output",
+ CellChangeTimes->{3.801020930982253*^9, 3.8010210157270064`*^9}],
 
 Cell[BoxData[
  DynamicBox[ToBoxes[$CellContext`title, StandardForm],
-  ImageSizeCache->{272., {6., 22.}}]], "Output",
- CellChangeTimes->{{3.8007789547292786`*^9, 3.80077900613509*^9}, 
-   3.800779129630994*^9, 3.8007822508592157`*^9, 3.800782724404662*^9, 
-   3.8007831262064605`*^9, 3.8007837761994066`*^9, 3.800783823013772*^9, 
-   3.8007840402215147`*^9, 3.8007841071410694`*^9, 3.8007845455559664`*^9, 
-   3.8007848330083437`*^9, {3.800784873040812*^9, 3.800784882413452*^9}, 
-   3.8007849541151667`*^9, 3.800785073420862*^9, 3.8007851202842183`*^9, 
-   3.8007852857009573`*^9, 3.8007878679608707`*^9, {3.8007886043073454`*^9, 
-   3.8007886112358456`*^9}, 3.8007887804127674`*^9, 3.8007888691455975`*^9, 
-   3.800789118724573*^9, 3.8007894453039293`*^9}],
+  ImageSizeCache->{286., {6., 23.}}]], "Output",
+ CellChangeTimes->{3.801020930982253*^9, 3.801021015742587*^9}],
 
 Cell[BoxData[
  InterpretationBox[GridBox[{
     {
      ButtonBox[
       DynamicBox[ToBoxes[$CellContext`option1, StandardForm],
-       ImageSizeCache->{119., {6., 26.}}],
+       ImageSizeCache->{118., {6., 27.}}],
       Appearance->{"AbuttingRight"},
       ButtonFunction:>$CellContext`UpdateUI[1],
       Evaluator->Automatic,
@@ -13692,7 +13677,7 @@ Cell[BoxData[
       Method->"Preemptive"], 
      ButtonBox[
       DynamicBox[ToBoxes[$CellContext`option2, StandardForm],
-       ImageSizeCache->{111., {6., 26.}}],
+       ImageSizeCache->{126., {6., 27.}}],
       Appearance->{"AbuttingLeftRight"},
       ButtonFunction:>$CellContext`UpdateUI[2],
       Evaluator->Automatic,
@@ -13700,7 +13685,7 @@ Cell[BoxData[
       Method->"Preemptive"], 
      ButtonBox[
       DynamicBox[ToBoxes[$CellContext`option3, StandardForm],
-       ImageSizeCache->{119., {6., 26.}}],
+       ImageSizeCache->{118., {6., 27.}}],
       Appearance->{"AbuttingLeft"},
       ButtonFunction:>$CellContext`UpdateUI[3],
       Evaluator->Automatic,
@@ -13721,39 +13706,15 @@ Cell[BoxData[
     Dynamic[$CellContext`option2] :> $CellContext`UpdateUI[2], 
     Dynamic[$CellContext`option3] :> $CellContext`UpdateUI[3]}, ImageMargins -> 
    5, Appearance -> {Automatic}]]], "Output",
- CellChangeTimes->{{3.8007789547292786`*^9, 3.80077900613509*^9}, 
-   3.800779129630994*^9, 3.8007822508592157`*^9, 3.800782724404662*^9, 
-   3.8007831262064605`*^9, 3.8007837761994066`*^9, 3.800783823013772*^9, 
-   3.8007840402215147`*^9, 3.8007841071410694`*^9, 3.8007845455559664`*^9, 
-   3.8007848330083437`*^9, {3.800784873040812*^9, 3.800784882413452*^9}, 
-   3.8007849541151667`*^9, 3.800785073420862*^9, 3.8007851202842183`*^9, 
-   3.8007852857009573`*^9, 3.8007878679608707`*^9, {3.8007886043073454`*^9, 
-   3.8007886112358456`*^9}, 3.8007887804127674`*^9, 3.8007888691455975`*^9, 
-   3.800789118724573*^9, 3.800789445308916*^9}],
+ CellChangeTimes->{3.801020930982253*^9, 3.801021015742587*^9}],
 
-Cell[BoxData["\<\"You got 2 out of 3 right!\"\>"], "Print",
- CellChangeTimes->{3.8007894593304095`*^9}]
-}, Open  ]],
-
-Cell[BoxData[""], "Input",
- CellChangeTimes->{
-  3.8007789106951437`*^9, {3.8007789418985777`*^9, 3.8007789426742897`*^9}}],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[""], "Input",
- CellChangeTimes->{{3.8007789440365295`*^9, 3.800778944039569*^9}}],
-
-Cell[BoxData[""], "Print",
- GeneratedCell->False,
- CellAutoOverwrite->False,
- CellChangeTimes->{{3.800778274970664*^9, 3.8007782994514885`*^9}, {
-  3.800783663037021*^9, 3.8007837056208076`*^9}}]
+Cell[BoxData["\<\"You got 1 out of 3 right!\"\>"], "Print",
+ CellChangeTimes->{3.801021032909069*^9}]
 }, Open  ]]
 },
 WindowSize->{1920, 997},
-WindowMargins->{{1912, Automatic}, {Automatic, -8}},
-Magnification:>2.5 Inherited,
+WindowMargins->{{1912, Automatic}, {Automatic, 0}},
+Magnification:>2.6 Inherited,
 FrontEndVersion->"11.0 for Microsoft Windows (64-bit) (September 21, 2016)",
 StyleDefinitions->"Default.nb"
 ]
@@ -13768,24 +13729,19 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 4759, 126, 1211, "Input"],
-Cell[5320, 148, 808447, 13309, 3555, "Input"],
+Cell[558, 20, 4759, 126, 1262, "Input"],
+Cell[5320, 148, 808447, 13309, 3752, "Input"],
 Cell[CellGroupData[{
-Cell[813792, 13461, 532, 13, 251, "Input"],
-Cell[814327, 13476, 283, 5, 503, "Output"]
+Cell[813792, 13461, 532, 13, 262, "Input"],
+Cell[814327, 13476, 356, 6, 523, "Output"]
 }, Open  ]],
-Cell[814625, 13484, 6784, 145, 1499, "Input"],
+Cell[814698, 13485, 6784, 145, 1712, "Input"],
 Cell[CellGroupData[{
-Cell[821434, 13633, 974, 20, 251, "Input"],
-Cell[822411, 13655, 761, 11, 655, "Output"],
-Cell[823175, 13668, 758, 11, 106, "Output"],
-Cell[823936, 13681, 2181, 50, 160, "Output"],
-Cell[826120, 13733, 103, 1, 56, "Print"]
-}, Open  ]],
-Cell[826238, 13737, 123, 2, 106, "Input"],
-Cell[CellGroupData[{
-Cell[826386, 13743, 94, 1, 106, "Input"],
-Cell[826483, 13746, 195, 4, 56, "Print"]
+Cell[821507, 13634, 974, 20, 262, "Input"],
+Cell[822484, 13656, 186, 3, 681, "Output"],
+Cell[822673, 13661, 181, 3, 111, "Output"],
+Cell[822857, 13666, 1606, 42, 164, "Output"],
+Cell[824466, 13710, 101, 1, 57, "Print"]
 }, Open  ]]
 }
 ]
