@@ -1,0 +1,25 @@
+660 * 660 image
+
+4 Singular Values:
+Mathematica SVD 100 iterations: 19.375 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 10.0781 seconds
+
+8 Singular Values:
+Mathematica SVD 100 iterations: 19.3125 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 14.2813 seconds
+
+16 Singular Values:
+Mathematica SVD 100 iterations: 19.2656 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 19.25 seconds
+
+32 Singular Values:
+Mathematica SVD 100 iterations: 19.6094 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 26.8906 seconds
+
+64 Singular Values:
+Mathematica SVD 100 iterations: 20.1094 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 48.4063
+
+128 Singular Values:
+Mathematica SVD 100 iterations: 20.0156 seconds
+Our SVD with Mathematica QRDecomposition 100 iterations: 85.8438 seconds
